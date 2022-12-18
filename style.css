@@ -1,0 +1,15 @@
+body{
+    background-color: #252525;
+    color: white;
+}
+.calc{
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+    margin: auto;
+
+}
+.calc_row{
+    margin: auto;
+}
+    text-align: center;
